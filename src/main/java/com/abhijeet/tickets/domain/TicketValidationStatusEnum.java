@@ -1,5 +1,5 @@
 package com.abhijeet.tickets.domain;
 
-public enum TicketValidationEnum {
+public enum TicketValidationStatusEnum {
     VALID,INVALID,EXPIRED
 }
