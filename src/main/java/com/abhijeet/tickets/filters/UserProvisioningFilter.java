@@ -1,6 +1,6 @@
 package com.abhijeet.tickets.filters;
 
-import com.abhijeet.tickets.domain.User;
+import com.abhijeet.tickets.domain.entites.User;
 import com.abhijeet.tickets.repositories.UserRepository;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;

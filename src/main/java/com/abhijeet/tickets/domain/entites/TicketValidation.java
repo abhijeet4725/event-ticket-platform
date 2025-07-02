@@ -1,4 +1,4 @@
-package com.abhijeet.tickets.domain;
+package com.abhijeet.tickets.domain.entites;
 
 import jakarta.persistence.*;
 import lombok.*;
