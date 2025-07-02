@@ -17,7 +17,7 @@ public class CreateEventRequest {
     private String name;
     private LocalDateTime start;
     private LocalDateTime end;
-    private LocalDateTime venue;
+    private String venue;
     private LocalDateTime salesStart;
     private LocalDateTime salesEnd;
     private EventStatusEnum status;
